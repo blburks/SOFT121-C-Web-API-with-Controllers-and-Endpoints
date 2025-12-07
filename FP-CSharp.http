@@ -1,0 +1,6 @@
+@FP_CSharp_HostAddress = http://localhost:5030
+
+GET {{FP_CSharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
